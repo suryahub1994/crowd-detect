@@ -23,8 +23,7 @@ This project aims to:
 - ✅ **YOLOv8-based person detection** for robust performance across scenes  
 - 🎨 **Adaptive heatmap** that persists and smoothens over time  
 - 🧮 **K-Means clustering** to group spatially close detections  
-- 🟢🟡🔴 **Color-coded density zones** for quick visual understanding  
-- ⚙️ Simple configuration through code constants — no external dependencies beyond OpenCV & Ultralytics  
+ - ⚙️ Simple configuration through code constants — no external dependencies beyond OpenCV & Ultralytics  
 
 ---
 
