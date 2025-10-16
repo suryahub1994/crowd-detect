@@ -56,7 +56,7 @@ This project aims to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/crowd-density-estimation.git
+git clone https://github.com/suryahub1994/crowd-density-estimation.git
 cd crowd-density-estimation
 
 # Install dependencies
